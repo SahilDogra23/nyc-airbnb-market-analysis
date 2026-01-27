@@ -1,3 +1,13 @@
-# nyc-airbnb-market-analysis
-Exploratory data analysis of NYC Airbnb data to uncover pricing drivers and market trends.
+# NYC Airbnb Market Analysis (EDA)
+
+Exploratory data analysis of NYC Airbnb listings to uncover pricing drivers, demand patterns, and market insights.
+
+## Status
+In progress — building from data cleaning → EDA → insights → (optional) modeling.
+
+## What this project will cover
+- Data cleaning + quality checks
+- Feature engineering
+- EDA + visualizations
+- Insight summary + recommendations
 
