@@ -1,2 +1,2 @@
 # nyc-airbnb-market-analysis
-NYC Airbnb EDA with pricing insights and market trends
+Exploratory data analysis of NYC Airbnb data to uncover pricing drivers and market trends.
