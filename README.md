@@ -10,6 +10,4 @@ In progress — building from data cleaning → EDA → insights → ML modeling
 - Feature engineering
 - EDA + visualizations
 - Insight summary + recommendations
-- This is cool man
-- Wlcome back 
 
